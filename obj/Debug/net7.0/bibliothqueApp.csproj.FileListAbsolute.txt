@@ -1,0 +1,15 @@
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\bin\Debug\net7.0\bibliothqueApp.exe
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\bin\Debug\net7.0\bibliothqueApp.deps.json
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\bin\Debug\net7.0\bibliothqueApp.runtimeconfig.json
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\bin\Debug\net7.0\bibliothqueApp.dll
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\bin\Debug\net7.0\bibliothqueApp.pdb
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.csproj.AssemblyReference.cache
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.AssemblyInfoInputs.cache
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.AssemblyInfo.cs
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.csproj.CoreCompileInputs.cache
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.dll
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\refint\bibliothqueApp.dll
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.pdb
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\bibliothqueApp.genruntimeconfig.cache
+C:\Users\mbani\OneDrive - SQLI\Bureau\bibliothqueApp\obj\Debug\net7.0\ref\bibliothqueApp.dll
